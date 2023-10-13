@@ -51,8 +51,8 @@
 #    print(f"Thanks for the deposit of £{deposit}")
 
 #in is basically if it contains
-name = "rooty"
-if name not in ("root", "admin", "ca"):
-    print("Accepted")
-else:
-    print("Invalid User")
+#name = "root"
+#if name not in ("root", "admin", "ca"):
+#    print("Accepted")
+#else:
+#    print("Invalid User")
