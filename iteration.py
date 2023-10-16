@@ -97,6 +97,8 @@
 #for name in list:
 #    print(F"{name} is awesome")
 
-for counter in range(5):
-    name = input("enter name ")
-    print(name + " is great")
+#for counter in range(5):
+ #   name = input("enter name ")
+  #  print(name + " is great")
+
+[print(f"{name} is awesome") for name in [input("enter name ") for x in range(5)]]
