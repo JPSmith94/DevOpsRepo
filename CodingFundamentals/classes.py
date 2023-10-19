@@ -178,9 +178,10 @@ print(my_cat)
 #trailing_ its a way of using python keywords without using the keyword itself
 #leading _ - indicates an attribute as private (bank details ect..) lock it down further with __
 
-class Feline:
-    __family = "Something"
+#class Feline:
+#    __family = "Something"
 
-cat3 = Feline()
+#cat3 = Feline()
 
-print(cat3._Feline__family)
+#print(cat3._Feline__family)
+
